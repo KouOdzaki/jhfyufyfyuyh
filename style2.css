@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: #00AE68;
+}
+
+h1{
+    font-size: 48px;
+}
+
+h2{
+    border: 6px solid #60D6A7;
+    text-align: center;
+    font-size: 24px;
+}
+
+.pas{
+    border: 6px solid #60D6A7;
+    text-align: center;
+    font-size: 24px;
+}
+
+footer{
+    background-color: #21825B;
+    font-size: 24px;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
+
+.1 {
+    width: 319px;
+    height: 162px;
+}
+
+.2{
+    width: 194px;
+    height: 259px;
+}
+
+.3{
+    width: 319px;
+    height: 162.03px;
+}
+
+.4{
+    width: 168px;
+    height: 259px;
+}
