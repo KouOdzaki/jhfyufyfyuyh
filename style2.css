@@ -32,22 +32,26 @@ footer a {
     color: white;
 }
 
-.1 {
+.odin {
     width: 319px;
     height: 162px;
+    margin: 50px 50px 50px 50px;
 }
 
-.2{
+.dva {
     width: 194px;
     height: 259px;
+    margin: 50px 50px 50px 50px;
 }
 
-.3{
+.tri{
     width: 319px;
     height: 162.03px;
+    margin: 50px 50px 50px 50px;
 }
 
-.4{
+.chetire{
     width: 168px;
     height: 259px;
+    margin: 50px 50px 50px 50px;
 }
