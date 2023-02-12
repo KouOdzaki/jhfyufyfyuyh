@@ -24,6 +24,7 @@ a{
     color: black;
     text-decoration: none;
     font-size: 20px;
+        margin-bottom: 50px;
 }
 
 h2{
@@ -36,6 +37,7 @@ h2{
     border: 6px solid #60D6A7;
     text-align: center;
     font-size: 24px;
+        margin-bottom: 50px;
 }
 
 footer{
