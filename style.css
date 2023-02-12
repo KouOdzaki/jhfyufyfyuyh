@@ -1,5 +1,5 @@
 *{
-        margin: 0px;
+    margin: 0px;
     padding: 0px;
 }
 body {
@@ -24,24 +24,27 @@ a{
     color: black;
     text-decoration: none;
     font-size: 20px;
-        margin-bottom: 50px;
+    margin-bottom: 50px;
 }
 
 h2{
     border: 6px solid #60D6A7;
     text-align: center;
     font-size: 24px;
+    margin-top: 50px;
+    margin-bottom: 20px;
 }
 
 .pas{
     border: 6px solid #60D6A7;
     text-align: center;
     font-size: 24px;
-        margin-bottom: 50px;
+    margin-bottom: 50px;
 }
 
 footer{
     background-color: #21825B;
     color: white;
     font-size: 24px;
+    margin-top: 50px;
 }
